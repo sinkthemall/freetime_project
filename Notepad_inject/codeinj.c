@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <tlhelp32.h>
 
-char dllPath[] = "D:\\freetime_project\\Notepad_inject\\my_dll.dll";
+char dllPath[] = "D:\\freetime_project\\Notepad_inject\\mh_dll.dll";
 
 typedef HMODULE(WINAPI *pLoadLibraryA)(LPCSTR lpLibFileName);
 

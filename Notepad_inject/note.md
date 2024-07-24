@@ -7,6 +7,7 @@
 -   Patch DestroyWindow API IAT
 -   Closing window event: https://learn.microsoft.com/en-us/windows/win32/learnwin32/closing-the-window
 -   https://www.ired.team/offensive-security/code-injection-process-injection/import-adress-table-iat-hooking
+-   https://learn.microsoft.com/en-us/windows/win32/winmsg/window-procedures
 
 
 ### Note
